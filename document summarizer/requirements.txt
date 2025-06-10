@@ -1,0 +1,6 @@
+Flask
+pdfplumber
+pandas
+sumy
+fpdf
+python-docx
